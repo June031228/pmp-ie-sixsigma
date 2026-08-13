@@ -1,0 +1,44 @@
+{
+  "pmp": [
+    {"title": "项目与项目管理基础", "case": "智能报销APP立项"},
+    {"title": "项目整合管理（章程/管理计划）", "case": "项目章程编写"},
+    {"title": "范围管理（需求收集/WBS）", "case": "电商网站WBS拆解"},
+    {"title": "进度管理（活动/排序/关键路径CPM）", "case": "关键路径计算"},
+    {"title": "成本管理（估算/预算/挣值EVM）", "case": "SPI/CPI计算"},
+    {"title": "质量管理（规划/保证/控制）", "case": "缺陷率管控"},
+    {"title": "资源管理（团队/冲突/塔克曼阶梯）", "case": "团队发展阶段"},
+    {"title": "沟通管理（沟通模型/计划）", "case": "干系人沟通矩阵"},
+    {"title": "风险管理（识别/定性定量/应对）", "case": "风险登记册"},
+    {"title": "采购管理（合同类型FFP/CPFF）", "case": "合同选型"},
+    {"title": "干系人管理（权力/利益网格）", "case": "参与度评估矩阵"},
+    {"title": "敏捷与混合（Scrum）", "case": "Sprint规划"}
+  ],
+  "industrial-engineering": [
+    {"title": "IE概述与科学管理", "case": "搬运铁块实验"},
+    {"title": "方法研究（程序分析）", "case": "流程程序图优化"},
+    {"title": "时间研究（标准工时/宽放）", "case": "工序标准工时制定"},
+    {"title": "动作研究（动素Therbligs）", "case": "双手操作分析"},
+    {"title": "生产线平衡（节拍/平衡率/瓶颈）", "case": "装配线平衡"},
+    {"title": "设施规划与物流（SLP）", "case": "仓库布局优化"},
+    {"title": "人机工程学", "case": "工位改善"},
+    {"title": "精益生产（价值流/七浪费）", "case": "VSM图析"},
+    {"title": "看板与拉动系统", "case": "超市拉动"},
+    {"title": "TPM与OEE", "case": "OEE提升"},
+    {"title": "运筹学（线性规划/运输问题）", "case": "运输问题求解"},
+    {"title": "质量工程（田口方法）", "case": "参数设计"}
+  ],
+  "six-sigma": [
+    {"title": "六西格玛概述（DMAIC/DPMO/西格玛水平）", "case": "西格玛水平换算"},
+    {"title": "Define（VOC/CTQ/SIPOC）", "case": "SIPOC绘制"},
+    {"title": "Measure（MSA/Cpk/Ppk）", "case": "Cpk计算"},
+    {"title": "Analyze（因果图/假设检验）", "case": "t检验"},
+    {"title": "Improve（DOE全因子/部分因子）", "case": "全因子设计"},
+    {"title": "Control（SPC/控制图/防错Poka-Yoke）", "case": "Xbar-R控制图"},
+    {"title": "统计基础（正态/中心极限定理）", "case": "过程能力"},
+    {"title": "假设检验进阶（ANOVA/卡方）", "case": "方差分析"},
+    {"title": "回归与相关（多元回归）", "case": "Y=f(X)建模"},
+    {"title": "精益六西格玛融合", "case": "周期缩短"},
+    {"title": "变革管理", "case": "阻力化解"},
+    {"title": "黑带角色与认证路径", "case": "备考规划"}
+  ]
+}
